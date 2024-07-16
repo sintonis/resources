@@ -4,7 +4,7 @@ This repository contains all resources including icons and images used in the Si
 
 ## License
 
-All icons in this repository are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+All images and icons in this repository are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
 
 ### You are free to:
 - Share — copy and redistribute the material in any medium or format
